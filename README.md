@@ -8,5 +8,8 @@ This website explores Beyoncé’s influence on law and technology at UMBC. It f
 ## Developed by Technology Law students, Fall 2024:
 Jackson Adams, Nimah Ahteshamuddin, Mehak Ahuja, Bethel Alemu, CJ Asike, Annie Cheung, Pahal Dave, David Gibbins, Carla Golubev, Adi Hari Krishna, Kimmie Herritt, Melina Hestnes, Emma Hoesch, Momin Imran, Nishant Kalavar, Ozair Khan, Ben Lubinski, Masooma Murad, Kerstyn Myers, Will Nunez, Ninu Olawale, Jesse Osomiha, Savannah Park, Zeel Patel, Sanjan Pilla, Eeshu Singh, Tejas Singh, Stephanas Stephen, Bersabel Tekle, Jake Thompson, Taqi Usman, and Abrar Zakir.
 
-THE FINSHED PRODUCT LINK:
-https://www.beyonceweekumbc.org/fall2024/animation
+#THE FINSHED PRODUCT LINK:
+https://www.beyonceweekumbc.org/fall2024/animation - I worked on the the implmentation of the animation page having moving mages . 
+## Custom Animation of Letters by me -Kerstyn A Myers
+## Main site Fall 2024 I worked as the Projet manger -https://www.beyonceweekumbc.org/fall2024
+
